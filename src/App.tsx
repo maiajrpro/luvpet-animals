@@ -1,8 +1,5 @@
-function App() {
-
-  return (
-   <div>Luvpet</div>
-  )
+function App () {
+  return <div>Luvpet</div>;
 }
 
-export default App
+export default App;
